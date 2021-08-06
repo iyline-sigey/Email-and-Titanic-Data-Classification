@@ -18,9 +18,7 @@ Numpy Library
 
 Matplotlib 
 
-Seaborn Library
-
-Standard Library
+Seaborn
 
 SciPy Library
 
